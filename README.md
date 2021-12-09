@@ -1,7 +1,7 @@
 # RetoSQAFlorezDeLujo
 _El presente proyecto es realizado con el fin de poner en practica y ejecución lo aprendido en el Semillero de Automatización de pruebas realizado por la empresa SQA. En se podrá evidenciar el uso de herramientas aplicadas para su aplicación._
 _La practica se realizará en la página https://floresdelujo.co/, la cual es una página para venta de arreglos florares en la ciudad de Medellín y sus alrededores, en ella podemos evidenciar que es bastante estática, lo que quiere decir es que es bastante fácil de usar, amigable y clara para que el cliente pueda ver los productos ofrecidos por empresa. En la página podemos encontrar el cajón de texto para buscar productos y más opciones de búsqueda o categorías para diferentes ocasiones especiales y demás, información de contacto y un enlace para asesoría por WhatsApp._
-## Las herramientas usadas para su procedimiento fueron:
+## Las herramientas usadas para su procedimiento fueron: 
 
 * IDEA IntelliJ 
 
@@ -15,12 +15,12 @@ _La practica se realizará en la página https://floresdelujo.co/, la cual es un
 
 * Automatizador de pruebas Cucumber y su analizador de lenguaje Gherkin
 
-## Requerimiento del reto
+## Requerimiento del reto :bulb:
 
 _El reto impuesto debía cumplir con lo siguiente:_
 _Leer un archivo de Excel que contiene como mínimo 5 productos escogidos dentro de la página https://floresdelujo.co/, El archivo de Excel debía ser creado por cada participante del reto._
 _La automatización debe buscar cada uno los productos enlistados en el Excel dentro de la página, una vez encontrado dentro de la búsqueda seleccionarlo y realizar la validación del nombre del producto buscado sea igual al relacionado dentro del archivo de Excel._
-## Pasos de la automatización
+## Pasos de la automatización :arrow_forward:
 _Abrir el navegador y buscar la pagina https://floresdelujo.co/._
 _Abrir archivo de Excel y leer el primer nombre del producto._
 _Ubicar el cajón de texto “buscar producto” y colocar el nombre de la lista (esta acción se realizará por cada uno de los productos enlistados)._
