@@ -1,7 +1,6 @@
 # RetoSQAFlorezDeLujo
 _El presente proyecto es realizado con el fin de poner en practica y ejecución lo aprendido en el Semillero de Automatización de pruebas realizado por la empresa SQA. En se podrá evidenciar el uso de herramientas aplicadas para su aplicación._
-_La practica se realizará en la página https://floresdelujo.co/, la cual es una página para venta de arreglos florares en la ciudad de Medellín y sus alrededores, en ella podemos evidenciar que es bastante estática, lo que quiere decir es que es bastante fácil de usar, amigable y clara para que el cliente pueda ver los productos ofrecidos por ella._
-_En la página podemos encontrar el cajón de texto para buscar productos y más opciones de búsqueda o categorías para diferentes ocasiones especiales y demás, información de contacto y un enlace para asesoría por WhatsApp._
+_La practica se realizará en la página https://floresdelujo.co/, la cual es una página para venta de arreglos florares en la ciudad de Medellín y sus alrededores, en ella podemos evidenciar que es bastante estática, lo que quiere decir es que es bastante fácil de usar, amigable y clara para que el cliente pueda ver los productos ofrecidos por empresa. En la página podemos encontrar el cajón de texto para buscar productos y más opciones de búsqueda o categorías para diferentes ocasiones especiales y demás, información de contacto y un enlace para asesoría por WhatsApp._
 ## Las herramientas usadas para su procedimiento fueron:
 
 * IDEA IntelliJ 
